@@ -1,0 +1,10 @@
+{
+    "n_cores": 1,
+    "n_devices": 1,
+    "n_messages_per_device": 1,
+    "n_messages_per_sec_per_device": 0,
+    "n_devices_to_create": 5000,
+    "device_basename": "",
+    "iot_hub_hostname": "",
+    "iot_hub_owner_connection_string": ""
+}
